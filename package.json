@@ -2,10 +2,7 @@
   "name": "BasicApp",
   "description": "BasicApp",
   "version": "1.0.0",
-  "dependencies":{
-    "@lightningjs/sdk": "^4.5.0",
-    "@lightningjs/sdks": "^4.5.0",
-    "@lightningjs/sdkss": "^4.5.0"
-
+  "dependencies": {
+    "@lightningjs/sdk": "^4.5.0"
   }
 }
