@@ -3,8 +3,12 @@
   "description": "BasicApp",
   "version": "1.0.0",
   "dependencies": {
+<<<<<<< HEAD
     "@lightningjs/sdk": "^4.5.0",
     "@lightningjs/sdks": "^4.5.0",
     "@lightningjs/sdkss": "^4.5.0"
+=======
+    "@lightningjs/sdk": "^4.5.0"
+>>>>>>> parent of 09c715b... Updated package.json
   }
 }
