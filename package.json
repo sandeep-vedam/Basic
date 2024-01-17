@@ -1,7 +1,7 @@
 {
   "name": "BasicApp",
   "description": "BasicApp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "dependencies": {
     "@lightningjs/sdk": "^4.5.0"
   }
